@@ -19,3 +19,6 @@ Note: If got error, like library not found, make sure you have activated the vir
 
 ### 5. Run the project
 1. python emotion_music.py --mode display
+
+
+### Please fork and give star if you found this project helpful
