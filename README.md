@@ -1,8 +1,8 @@
 # ML-and-IOT-based-Emotion-detection-and-music-light-recommendation-system
 
 ### 1.Create Virtual environment
-Anaconda: https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
-Windows & linux: https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
+1. Anaconda: https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+2. Windows & linux: https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/
 
 ### 2. Download image and song Dataset
 1. link: https://www.kaggle.com/msambare/fer2013
