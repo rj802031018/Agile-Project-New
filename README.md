@@ -11,9 +11,11 @@
 
 ### 3. Install libraries in Virtual environment
 1. pip install -r requirements.txt
+Note: We are assuming you activate the virtual environment and then you are installing all the libraries
 
 ### 4. To Train the project
 1. python emotion_music.py --mode train
+Note: If got error, like library not found, make sure you have activated the virtual environment
 
 ### 5. Run the project
 1. python emotion_music.py --mode display
